@@ -1,2 +1,6 @@
 # Lab4PlataformasAbiertas
-Repositorio del laboratiorio 4 del curso Programacion Bajo Plataformas Abiertas UCR II-2023
+### Universidad de Costa Rica
+#### IE 0117 - Programación Bajo Plataformas Abiertas
+##### Laboratorio 4: Listas enlazadas (segundo ciclo del 2023)
+
+- Alexa López Marcos, B94353
